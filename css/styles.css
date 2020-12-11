@@ -130,7 +130,7 @@ header {
 /* Education
 ------------------------------------*/
 .education {
-  background-image: url(../images/EduSectBGr.png);
+  background-image: url("https://github.com/chuongtang/CTangResume/blob/main/images/EduSectBGr.png?raw=true");
   background-size: cover;
   background-position: bottom right;
   padding-bottom: 80px;
