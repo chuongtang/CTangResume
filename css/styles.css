@@ -30,7 +30,7 @@ img {
   width: 300px;
 }
 
-img: hover {
+.project-img: hover {
   transform: scale(1.5);
 a {
   color: #FFE66D;
