@@ -103,7 +103,10 @@ header {
 .project-img:hover{
   transform: scale(1.5);
 }
-  
+
+.evolveu:hover{
+  transform: scale(2);
+}
 
 /* PURSUIT
 ------------------------------------*/
