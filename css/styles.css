@@ -112,14 +112,13 @@ header {
 ------------------------------------*/
 .pursuits{
   line-height: 5 px;
-  background: linear-gradient(to bottom, #F7FFF7 , #A1C6D7);
 }
 
 
 /* Work Experience
 ------------------------------------*/
 .work-experience {
-  background: #A1C6D7;
+  background: linear-gradient(to bottom, #F7FFF7 , #A1C6D7);
 }
 
 
